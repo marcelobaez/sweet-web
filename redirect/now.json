@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": ["www.sweethope.com.ar"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://sweethope.com.ar/$1" }
+    }
+  ]
+}

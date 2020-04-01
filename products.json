@@ -1,0 +1,412 @@
+{
+  "products": [
+    {
+      "id": "3fb02918-6984-4354-9403-85d0095d23a0",
+      "name": "Amazonas",
+      "description": "nunc nisl duis bibendum felis sed",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            },
+            {
+              "size": "XL",
+              "quantity": 2
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1018.jpg",
+      "price": 1946.27,
+      "rating": 5
+    },
+    {
+      "id": "3913dcda-f934-4f1a-80ca-ef06e9e4fe26",
+      "name": "Arizona",
+      "description": "quam suspendisse potenti nullam porttitor lacus at turpis donec",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            },
+            {
+              "size": "XL",
+              "quantity": 2
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1020.jpg",
+      "price": 1064.46,
+      "rating": 1
+    },
+    {
+      "id": "8f219136-8c48-4ac6-8704-ee3ec15871b0",
+      "name": "Bora Bora",
+      "description": "vestibulum ante ipsum primis in faucibus orci luctus",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            },
+            {
+              "size": "XL",
+              "quantity": 2
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1019.jpg",
+      "price": 1723.85,
+      "rating": 4
+    },
+    {
+      "id": "63706abd-d407-4cb9-844a-f273becf117c",
+      "name": "Florida",
+      "description": "lacinia aenean sit amet justo morbi ut odio",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1018.jpg",
+      "price": 416.27,
+      "rating": 3
+    },
+    {
+      "id": "53e8c515-beb9-4408-821f-14457d24c1f5",
+      "name": "Hawai",
+      "description": "primis in faucibus orci luctus et ultrices posuere",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "rojo",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "color": "negro",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1018.jpg",
+      "price": 1930.39,
+      "rating": 1
+    },
+    {
+      "id": "e6d7236d-76e1-492d-b9bb-426de0d20651",
+      "name": "Ibiza",
+      "description": "ullamcorper purus sit amet nulla quisque",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1019.jpg",
+      "price": 1454.99,
+      "rating": 2
+    },
+    {
+      "id": "7e9cf5c1-e49c-4c30-8f95-8a12ff385654",
+      "name": "Maldivas",
+      "description": "hac habitasse platea dictumst morbi vestibulum velit id",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1020.jpg",
+      "price": 1252.83,
+      "rating": 0
+    },
+    {
+      "id": "333f78af-dc77-4f41-8567-8d0d03a779a9",
+      "name": "Saona",
+      "description": "elementum pellentesque quisque porta volutpat erat",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "negro",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "http://dummyimage.com/223x217.jpg/dddddd/000000",
+      "price": 1965.04,
+      "rating": 3
+    },
+    {
+      "id": "28d23537-818b-4cd1-8a10-8509e4dfa278",
+      "name": "Texas",
+      "description": "duis aliquam convallis nunc proin at turpis a pede",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "estampada",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1018.jpg",
+      "price": 1061.5,
+      "rating": 5
+    },
+    {
+      "id": "fcdb5526-1f1b-4d48-9eee-a74496d17709",
+      "name": "Tulum",
+      "description": "at turpis donec posuere metus vitae ipsum aliquam",
+      "department": "Bikinis",
+      "variants": [
+        {
+          "color": "rojo",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "color": "amarillo",
+          "images": [
+            "/static/img/IMG_1018.jpg",
+            "/static/img/IMG_1019.jpg",
+            "/static/img/IMG_1020.jpg"
+          ],
+          "subVariants": [
+            {
+              "size": "S",
+              "quantity": 3
+            },
+            {
+              "size": "M",
+              "quantity": 1
+            },
+            {
+              "size": "L",
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "cover": "/static/img/IMG_1018.jpg",
+      "price": 279.57,
+      "rating": 2
+    }
+  ]
+}
